@@ -18,7 +18,7 @@ GOOGLE_MAPS_API_KEY=YOUR_API_KEY_HERE
 To install the application, you first need to clone this repository:
 
 ```
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/thesagarkale/weather-app.git
 cd weather-app
 ```
 
