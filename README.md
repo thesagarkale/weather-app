@@ -41,6 +41,6 @@ This will start the application and you can use it to get the weather informatio
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ### Acknowledgments
-[Open Meteo API](https://open-meteo.com/en/docs)
+[Open Meteo API](https://open-meteo.com)
 
 [Google Maps Platform](https://mapsplatform.google.com/)
